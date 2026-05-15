@@ -4,7 +4,7 @@
 
 R code accompanying the paper:
 
-> Li, M. & Castro-Camilo, D. (2025). Tail-Informed Extreme Quantile Treatment Effects. arXiv: [2603.23309](https://arxiv.org/abs/2603.23309), under review.
+> Li, M. & Castro-Camilo, D. (2026). Tail-Informed Extreme Quantile Treatment Effects. arXiv: [2603.23309](https://arxiv.org/abs/2603.23309), under review.
 
 ## Repository structure
 
@@ -81,11 +81,11 @@ application/            River precipitation case study
 If you use this code, please cite:
 
 ```bibtex
-@article{LiCastroCamilo2025,
+@article{LiCastroCamilo2026,
   title   = {Tail-Informed Extreme Quantile Treatment Effects},
   author  = {Li, Mengran and Castro-Camilo, Daniela},
   journal = {arXiv preprint arXiv:2603.23309},
-  year    = {2025}
+  year    = {2026}
 }
 ```
 
